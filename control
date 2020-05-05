@@ -1,0 +1,9 @@
+Package: org.ioshack.checksandbox0day
+Name: CheckSandbox0Day
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Check Sandbox 0day and Disable them!
+Maintainer: ioshack
+Author: ioshack
+Section: Tweaks
